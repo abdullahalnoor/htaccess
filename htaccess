@@ -277,4 +277,11 @@ RewriteRule ^.* – [F,L]
 
 
 
+#web mail cofig 
 
+MAIL_DRIVER=smtp
+MAIL_HOST=kooltec.us 
+MAIL_PORT=465 
+MAIL_USERNAME=sales@kooltec.us 
+MAIL_PASSWORD=%h]AW*IH~kSK
+MAIL_ENCRYPTION=ssl
